@@ -1,0 +1,1 @@
+RSS feeds are growing more and more in size and broadness. Information we receive from RSS can be irrelevant or at least not very easy to sort. We can even consider RSS as a source for BIG DATA. We are willing to propose a solution to efficiently sort RSS feeds making use of the MapReduce model, which is a distributed algorithm by its Nature.
